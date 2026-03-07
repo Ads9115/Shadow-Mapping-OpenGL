@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\adars\source\repos\Shadow Mapping\Shadow Mapping\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\adars\source\repos\Shadow Mapping\Shadow Mapping\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F1307036-64FF-3639-9A8F-F690CE23AF9B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

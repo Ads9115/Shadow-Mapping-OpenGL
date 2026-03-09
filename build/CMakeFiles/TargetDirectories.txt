@@ -1,4 +1,4 @@
 C:/Users/adars/source/repos/Shadow Mapping/Shadow Mapping/build/CMakeFiles/glad.dir
-C:/Users/adars/source/repos/Shadow Mapping/Shadow Mapping/build/CMakeFiles/ShadowMappingSimple.dir
+C:/Users/adars/source/repos/Shadow Mapping/Shadow Mapping/build/CMakeFiles/ShadowMapping.dir
 C:/Users/adars/source/repos/Shadow Mapping/Shadow Mapping/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/adars/source/repos/Shadow Mapping/Shadow Mapping/build/CMakeFiles/ZERO_CHECK.dir

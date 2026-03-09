@@ -4,11 +4,22 @@
     <ClCompile Include="C:\Users\adars\source\repos\Shadow Mapping\Shadow Mapping\Source\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\adars\source\repos\Shadow Mapping\Shadow Mapping\Source\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\adars\source\repos\Shadow Mapping\Shadow Mapping\Headers\Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\adars\source\repos\Shadow Mapping\Shadow Mapping\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CC37D029-EC0F-3ED7-A511-C55747FBB576}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files">
       <UniqueIdentifier>{F1307036-64FF-3639-9A8F-F690CE23AF9B}</UniqueIdentifier>
     </Filter>

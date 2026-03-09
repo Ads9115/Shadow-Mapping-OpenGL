@@ -699,7 +699,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "ShadowMappingSimple"
+			"value" : "ShadowMapping"
 		},
 		{
 			"name" : "CMAKE_PROJECT_SPDX_LICENSE",
@@ -1135,6 +1135,42 @@
 		},
 		{
 			"name" : "ShadowMappingSimple_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/adars/source/repos/Shadow Mapping/Shadow Mapping"
+		},
+		{
+			"name" : "ShadowMapping_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/adars/source/repos/Shadow Mapping/Shadow Mapping/build"
+		},
+		{
+			"name" : "ShadowMapping_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "ShadowMapping_SOURCE_DIR",
 			"properties" : 
 			[
 				{

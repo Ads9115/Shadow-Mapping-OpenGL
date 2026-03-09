@@ -118,7 +118,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=ShadowMappingSimple
+CMAKE_PROJECT_NAME:STATIC=ShadowMapping
 
 //Value Computed by CMake
 CMAKE_PROJECT_SPDX_LICENSE:STATIC=
@@ -211,6 +211,15 @@ ShadowMappingSimple_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 ShadowMappingSimple_SOURCE_DIR:STATIC=C:/Users/adars/source/repos/Shadow Mapping/Shadow Mapping
+
+//Value Computed by CMake
+ShadowMapping_BINARY_DIR:STATIC=C:/Users/adars/source/repos/Shadow Mapping/Shadow Mapping/build
+
+//Value Computed by CMake
+ShadowMapping_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+ShadowMapping_SOURCE_DIR:STATIC=C:/Users/adars/source/repos/Shadow Mapping/Shadow Mapping
 
 //Third-party include dir
 THIRD_PARTY_INCLUDE_DIR:PATH=C:/Users/adars/source/repos/Shadow Mapping/Shadow Mapping/../Libraries/include

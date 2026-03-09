@@ -174,9 +174,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\adars\source\repos\Shadow Mapping\Shadow Mapping\build\ShadowMappingSimple.vcxproj">
-      <Project>{CE9B324B-1C36-3295-9C10-26B3B91D87B1}</Project>
-      <Name>ShadowMappingSimple</Name>
+    <ProjectReference Include="C:\Users\adars\source\repos\Shadow Mapping\Shadow Mapping\build\ShadowMapping.vcxproj">
+      <Project>{69558AF0-3D42-3484-92C1-918DA21B2C18}</Project>
+      <Name>ShadowMapping</Name>
     </ProjectReference>
     <ProjectReference Include="C:\Users\adars\source\repos\Shadow Mapping\Shadow Mapping\build\glad.vcxproj">
       <Project>{C6BC7D10-5F77-3F51-9017-432281EF5526}</Project>
